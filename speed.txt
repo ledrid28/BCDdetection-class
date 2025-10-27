@@ -1,0 +1,26 @@
+SPEED Information:
+id : 4.0: speed in kmh: 15.174328726520859
+id : 9.0: speed in kmh: 132.2139289498833
+id : 12.0: speed in kmh: 86.63899557827958
+id : 5.0: speed in kmh: 47.97058688228018
+id : 6.0: speed in kmh: 60.98336423125957
+id : 16.0: speed in kmh: 53.16466916912811
+id : 19.0: speed in kmh: 38.024254041144026
+id : 30.0: speed in kmh: 98.85907827779886
+id : 33.0: speed in kmh: 52.20507948230188
+id : 47.0: speed in kmh: 56.14085267202598
+id : 37.0: speed in kmh: 55.619382714685116
+id : 54.0: speed in kmh: 44.697977493844355
+id : 67.0: speed in kmh: 88.69446307155805
+id : 62.0: speed in kmh: 52.64275624667311
+id : 77.0: speed in kmh: 52.115516979424314
+id : 79.0: speed in kmh: 51.998745100848225
+id : 87.0: speed in kmh: 47.096380949244065
+id : 84.0: speed in kmh: 57.43868158367476
+id : 100.0: speed in kmh: 132.36726887900983
+id : 103.0: speed in kmh: 91.64298678257526
+id : 104.0: speed in kmh: 121.67507219763658
+id : 107.0: speed in kmh: 85.14511130022855
+id : 108.0: speed in kmh: 36.36205976051772
+id : 113.0: speed in kmh: 51.64321347830399
+id : 126.0: speed in kmh: 99.64474074605921
